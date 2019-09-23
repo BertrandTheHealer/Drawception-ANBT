@@ -1,6 +1,8 @@
 Bertrand's Drawception ANBT [![Public domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ================
 
+### As of Jan 14, 2019, this script is no longer being maintained. Changes to the Drawception website have made it non-functional, and I no longer have time to keep up. [EnderDragonneau](https://github.com/EnderDragonneau/)'s version is being maintained [here](https://github.com/EnderDragonneau/Drawception-ANBT-fix)
+
 A userscript to make Drawception.com better: more drawing tools, tablet support, sandbox with palettes and uploading to imgur, like all, quick menu buttons, improved UI, and other enhancements.
 Original by Grom PE [here](https://github.com/grompe/Drawception-ANBT)
 
